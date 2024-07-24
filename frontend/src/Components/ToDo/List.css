@@ -1,0 +1,24 @@
+.main-block {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+}
+
+.TitleBlock {
+    font-size: 75px;
+}
+
+ul {
+    text-decoration: none;
+    text-decoration-line: none;
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    font-size: 25px;
+    padding: 10px;
+}

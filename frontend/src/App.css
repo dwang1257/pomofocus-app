@@ -1,0 +1,23 @@
+@import 'animate.css';
+
+@font-face {
+  font-family: 'Cormorant Garamond';
+  src: url('./Assets/CormorantGaramond-Regular.ttf') format('truetype');
+
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('./Assets/Roboto-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Coolvetica';
+  src: url('./Assets/coolvetica.ttf') format('truetype');
+}
+
+
+input,
+textarea {
+  font-family: 'Coolvetica';
+}

@@ -1,0 +1,32 @@
+.work-session {
+    background-color: #a9c191; /* Default work session color */
+}
+
+.break-session {
+    background-color: #ff7f7f; /* Break session color */
+}
+
+.body {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    transition: ease-in 0.3s;
+    padding-bottom: 50%;
+}
+
+.header {
+    font-size: 75px;
+}
+
+.clock {
+    font-size: 50px;
+}
+
+.cycles {
+    font-size: 30px;
+}

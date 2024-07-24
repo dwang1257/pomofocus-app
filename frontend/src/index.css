@@ -1,0 +1,22 @@
+html {
+  font-size: 62.5%;
+}
+
+
+body {
+  margin: 0;
+  font: 400 11px/1.4 'Coolvetica', 'sans-serif';
+  font-weight: 400;
+  color: black;
+  background-color: #ffffff;
+  overflow: hidden;
+  display: block;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+h1, h2, h3 {
+  font-family: 'Coolvetica', sans-serif;
+  font-weight: 400;
+}

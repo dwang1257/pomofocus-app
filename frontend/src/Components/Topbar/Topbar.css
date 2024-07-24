@@ -1,0 +1,14 @@
+.top-bar {
+    background-color: #333333;
+    width: 100%;
+    height: 40px;
+    font-size: 25px;
+    position: absolute;
+}
+
+a {
+    text-decoration: none;
+    margin-left: 25px;
+    color:white;
+}
+
