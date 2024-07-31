@@ -19,6 +19,29 @@ ul {
 }
 
 li {
-    font-size: 25px;
+    font-size: 30px;
     padding: 10px;
+}
+
+.item-name {
+    margin-right: 20px; 
+}
+
+.delete-button, .add-button {
+    border: none;
+    font-size: 15px;
+    background-color: white;
+    padding: 10px;
+    font-family:'Coolvetica';
+    border-radius: 10%;
+}
+
+.delete-button:hover, .add-button:hover {
+    background-color: #ffbf00;
+}
+
+.input {
+    margin-right: 20px;
+    padding: 10px;
+    background-color: white;
 }

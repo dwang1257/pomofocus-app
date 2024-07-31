@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pomofocus-app/static/css/main.95286469.css",
+    "main.js": "/pomofocus-app/static/js/main.d31ad604.js",
+    "static/media/CormorantGaramond-Regular.ttf": "/pomofocus-app/static/media/CormorantGaramond-Regular.4114a151797af532cace.ttf",
+    "static/media/coolvetica.ttf": "/pomofocus-app/static/media/coolvetica.b68cc64eb0c25ba4ae5b.ttf",
+    "static/media/Roboto-Bold.ttf": "/pomofocus-app/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
+    "index.html": "/pomofocus-app/index.html",
+    "main.95286469.css.map": "/pomofocus-app/static/css/main.95286469.css.map",
+    "main.d31ad604.js.map": "/pomofocus-app/static/js/main.d31ad604.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95286469.css",
+    "static/js/main.d31ad604.js"
+  ]
+}
